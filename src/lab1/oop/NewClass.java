@@ -9,11 +9,6 @@ package lab1.oop;
  *
  * @author coc
  */
-public class Test {
+public class NewClass {
     
-    public static void main(String[] args) {
-        // TODO code application logic here
-        System.out.println("Test");
-        int i;
-    }
 }
